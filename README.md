@@ -19,7 +19,7 @@ Vellum is a cinematic, word-by-word karaoke lyrics display for the **Kitty** ter
 ### The Quick Way (Recommended)
 If you have Rust installed, just clone and run the installer:
 ```bash
-git clone https://github.com/YOUR_USERNAME/vellum.git
+git clone https://github.com/bambamlak/vellum.git
 cd vellum
 sh install.sh
 ```
